@@ -6,6 +6,7 @@ En este laboratio se construirá un modelo de regresión lineal univariado.
 
 """
 import pandas as pd
+import numpy as np
 
 
 def pregunta_01():
